@@ -18,3 +18,10 @@ Detecting objects in a image and video using <b> YOLO framework </b>
 </p>
   <img align="left" alt="Predictions Image" src="https://github.com/Pmair20/object_detector/blob/main/predictions.jpg" /><br />
 </p>
+
+<b>Note:- <b><br />
+<p>
+  The detection weights and data being used has been used from : https://pjreddie.com/darknet/yolo/ 
+  This is simply a demonstration of object detection on an image.
+  It is possible to run this on camera input as well as video.
+</p>  
