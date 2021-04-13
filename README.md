@@ -18,7 +18,7 @@ Detecting objects in a image and video using <b> YOLO framework </b>
 </p>
   <img align="left" alt="Predictions Image" src="https://github.com/Pmair20/object_detector/blob/main/predictions.jpg" /><br />
 </p>
-
+<b><br/>
 <b>Note:- <b><br />
 <p>
   The detection weights and data being used has been used from : https://pjreddie.com/darknet/yolo/ 
