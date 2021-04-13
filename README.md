@@ -14,3 +14,7 @@ Detecting objects in a image and video using <b> YOLO framework </b>
 <p>
   4- Run the detector by typing : ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg.
 </p>
+</p>
+  <img align="left" alt="Predictions Image" src="" /><br />
+</p>
+  
